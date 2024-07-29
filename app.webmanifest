@@ -1,0 +1,15 @@
+{
+  "name": "simple calculator",
+  "short_name": "calculator",
+  "icons": [
+    {
+      "src": "assets/image.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "red",
+  "background_color": "white"
+}
